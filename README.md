@@ -1,7 +1,17 @@
 ## Hi there 👋
 
 <!--
-**leticiaalves-rosa-a11y/leticiaalves-rosa-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# TITULO
+## SUBTITULO
+** NEGRITO **
+- item ( Item lista )
+.[texto]_(https://link.com). - link clicável 
+![descrição]_(link-da-imagem). - imagem se quiser colocar alguma
+
+## olá, eu sou letìcia
+Estudante de desenvolvimento de sistemas - Senai-
+programaçao e desenvolvimento de Sistemas.
+## Praticante de Musculação,calistenia & Artes Marciais,Criando códigos, produzindo músicas e mantendo a rotina de treinos.
 
 Here are some ideas to get you started:
 
